@@ -71,7 +71,7 @@
 <br />
 <br /> -->
 
-Always Learning Something New 🫠​
+Apprendre sans cesse de nouvelles choses 🫠​
 
 <p align="center">
 	<a href="mailto:abhousse@student.1337.ma">
