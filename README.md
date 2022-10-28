@@ -6,12 +6,12 @@
 
 <p>Je m'intéresse à la programmation et plus précisément a la cybersécurité et l'intelligence artificielle, donc de ce fait je me suis orienté vers le monde de la programmation a partir de 2020, j'ai choisi l'école 1337 qui appartient à 42Network pour améliorer mes connaissances dans le domaine de l'informatique et de l'intelligence artificielle.</p>
 
-- :earth_africa:  I'm based in Morrocco
-- :envelope:  You can contact me at [abhousse@student.1337.ma](mailto:abhousse@student.1337.ma)
-- :bow_and_arrow:​ Aiming to be a AI web developer
+- :earth_africa:  Je suis basé au Maroc
+- :envelope:  Vous pouvez me contacter à l'adresse suivante : [abhousse@student.1337.ma](mailto:abhousse@student.1337.ma)
+- :bow_and_arrow:​ Viser à devenir un très bon informaticien
 
 
-### Skills<p align="left">
+### Compétences<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 </a>
@@ -32,7 +32,7 @@
 </a>
 </p>
 
-### Socials
+### Réseaux Sociaux 
 
 <p align="left">
 
